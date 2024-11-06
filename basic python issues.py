@@ -2,8 +2,8 @@ def calculate_area(length, width):
     area = length * width
     return area
 
-length = input("Waffle:\n")
-width = input("Waffle:\n")
+length = input("Waffle stuff:\n")
+width = input("Waffle more stuff:\n")
 
 try:
     length = int(length)
